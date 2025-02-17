@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Alfa_bot",
+			"path": "../../learning/JS/Node_Js/WebScraping 05/Alfa_bot"
+		},
+		{
+			"name": "node_modules",
+			"path": "../../learning/JS/Node_Js/WebScraping 05/node_modules"
+		},
+		{
+			"name": "public",
+			"path": "../../learning/JS/Node_Js/WebScraping 05/public"
+		},
+		{
+			"name": "Web_Scraping_using_nodeJs-main",
+			"path": "../Web_Scraping_using_nodeJs-main/Web_Scraping_using_nodeJs-main"
+		}
+	]
+}
